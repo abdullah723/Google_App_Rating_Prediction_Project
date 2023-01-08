@@ -1,21 +1,20 @@
 # Google_App_Rating_Prediction_Project
 
-Problem Statement: I have a dataset containing features of apps present in google playstore, preparing a model to predt the rating.
+Problem Statement: I have a dataset containing features of apps present in the Google Play Store, and I am preparing a model to predict the rating.
 
-Work done: The App Rating Prediction Project in Python is an effort to develop a machine learning model, and Exploratory Data Analysis(EDA) that can accurately predict the user ratings of a given app. The project involves collecting user data from a csv file, and user demographics, and then using this data to build a predictive model.
+Work Done: The App Rating Prediction Project in Python is an effort to develop a machine learning model and conduct Exploratory Data Analysis (EDA) to accurately predict the user ratings of a given app. The project involves collecting user data from a CSV file and user demographics, and then using this data to build a predictive model.
 
 Technologies Used
 
-Python Jupiter Notebook Libraries:-
+Python Jupyter Notebook Libraries:-
 
 Numpy Pandas For visualization 
 
 Seaborn Matplot For Scaling
 
-Processing min-max scaler For Classification
+Processing Min-Max scaler For Classification
 
-Prediction: Scikit learn: knn
-
+Prediction: Scikit Learn: K-Nearest Neighbors (KNN)
 
 
 
